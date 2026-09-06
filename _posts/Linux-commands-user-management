@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 7
+title: 
+
+# Add the link to your Linux project below
+project-url: https://docs.google.com/document/d/152Vj_jZ2lWt6q4xY9ZCf3VAy8GrMLzPPGidsiu16GlU/edit?usp=sharing
+
+description: Linux project showcasing commands used to manage and edit user and group permissions for files and directories.
+---
