@@ -2,8 +2,6 @@
 layout: default
 modal-id: 7
 title: Linux Commands
-img: audit.png
-alt: image-alt
 
 # Reminder: Update this link with your own project link
 project-url: https://docs.google.com/document/d/152Vj_jZ2lWt6q4xY9ZCf3VAy8GrMLzPPGidsiu16GlU/edit?usp=sharing
