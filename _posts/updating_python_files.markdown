@@ -9,5 +9,5 @@ alt: image-alt
 project-url: 
 
 
-# description: Add a description for updating Python files using an algorithm.
+description: This project is in progress and not ready to be published just yet. Please contact me if you'd like a sneak peek. Otherwise, stay tuned!
 ---
